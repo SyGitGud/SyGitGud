@@ -2,7 +2,7 @@
 - 👀 I’m interested in working on new projects and reading Clean Code.
 - 🌱 I’m currently learning Python and Java. :)
 - 💞️ I’m looking to collaborate on Fresher-level projects and programming events.
-- 📫 How to reach me: You can message me!
+- 📫 How to reach me: You can message me in comment sections. I am always looking for critiques and/or tips!
 
 <!---
 SyGitGud/SyGitGud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
